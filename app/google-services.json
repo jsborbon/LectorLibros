@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045821713071",
+    "project_id": "lector-de-libros-6d5e0",
+    "storage_bucket": "lector-de-libros-6d5e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045821713071:android:4c1a8947eecceb0594425a",
+        "android_client_info": {
+          "package_name": "com.jsborbon.lectordelibros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuSzaD_rZnrWm3K-fEUxeqsFelPJ7GjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
